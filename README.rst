@@ -1,9 +1,12 @@
-Template for the Read the Docs tutorial
-=======================================
+Red Hat Research’s OKR Maintenance Documentation
+================================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub project is hooked with the readthedocs page of RHR OKR Maintenance documentation for version controlling. 
 
-Read the tutorial here:
+Read the OKR maintenance manual here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://rhr-okrs.readthedocs.io/en/latest/
+
+RHR OKRs are managed here:
+https://app.asana.com/0/goals/1200485613117936/list
+
