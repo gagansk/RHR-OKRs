@@ -9,9 +9,8 @@ Roles & responsibilities
 The diagram below shows the roles associated with OKRs within the OCTO with the names of the people assigned to them. These roles are explained in the `OKR Practice <https://docs.google.com/document/d/1mAzjBzNQP6Dw4DPDOd0EXVNcmozrpDSwApEImVd3Ifo/edit?ts=5ea9b1e1#>`_ in the CTO Office. In this document, only the roles of OKR Shepherd and KR Shepherd also known as KR Owner will be explained in detail within this document.
 
 .. image:: OKR-hierarchy.png
-    :width: 400px
+    :width: 600px
     :align: center
-    :height: 200px
     :alt: alternate text
 
 * **OKR Shepherd**
