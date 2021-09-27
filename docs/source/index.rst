@@ -13,4 +13,4 @@ Contents
 .. toctree::
 
    introduction
-   api
+   tracking
