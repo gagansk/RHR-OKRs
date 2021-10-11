@@ -19,6 +19,7 @@ Contents
    introduction
    prerequisite
    grading
+   tracking
    schedule
 
 
