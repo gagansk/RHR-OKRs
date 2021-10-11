@@ -19,4 +19,6 @@ Contents
    introduction
    prerequisite
    grading
+   schedule
+
 
