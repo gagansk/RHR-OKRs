@@ -17,6 +17,6 @@ Contents
 .. toctree::
 
    introduction
-   tracking
+   prerequisite
    grading
 
