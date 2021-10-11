@@ -5,19 +5,19 @@ OKR Grading
 
 Grading a KR
 ------------
-The Red Hat Research team engages in a wide variety of tasks and hence, it is difficult to set one set of metrics for KRs. However, we have come up with a template that should be used as the baseline while creating targets for your KRs. Well before deciding on grading the KR, map your KR to one of the following types of Key Results based on characteristics and then use the respective grading metrics that are suggested for that type of Key Result. 
+The Red Hat Research team engages in a wide variety of tasks and hence, it is difficult to set one kind of metric for KRs. However, we have come up with a template that should be used as the baseline while creating targets for your KRs. Well before deciding on grading the KR, map your KR to one of the following types of Key Results based on characteristics and then use the respective grading metrics that are suggested for that type of Key Result.
 
 -----------------------------
 
 Incremental Key Results
 -----------------------
-If a Key Result is a task to substantially increase a number gradually over a period of time, then we can call that an incremental key result. 
+If a Key Result is a task to substantially increase a number gradually over a period of time, then we can call that an Incremental Key Result.
 
-**Thumb Rule to qualify**: N to 2N (Where N > 100). 
+**Thumb Rule to qualify**: N to 2N (Where N > 100).
 
-**Examples of Incremental Key Results**: By the end of FY22Q1, double the number of RHR website hits from 3000 unique visitors/month to 6000 unique visitors/month. 
+**Examples of Incremental Key Results**: By the end of FY22Q1, double the number of RHR website hits from 3000 unique visitors/month to 6000 unique visitors/month.
 
-**Quantify and Grade Incremental Key Results**: Break the difference between the target and the baseline into equal portions (1000 visitors/month) across the Quater and set those portions as targets for checkpoints. 
+**Quantify and Grade Incremental Key Results**: Break the difference between the target and the baseline into equal portions ((6000 - 3000) / 3 months = 1000 visitors/month) across the Quater and set those portions as targets for checkpoints.
 
 +------------------+---------------------+-----------+
 |  Check Point     |       Target        |  Grading  |
@@ -31,17 +31,16 @@ If a Key Result is a task to substantially increase a number gradually over a pe
 | FY22 Mar(end)    | 6000 visitors/month |    100%   |
 +------------------+---------------------+-----------+
 
---------------
+Groundwork Key Results
+----------------------
 
-Pulsar Key Results
-------------------
-If a Key Result is a task to marginally increase a number sharply in a period of time, then we can call that a pulsar key result.
+If a Key Result requires a significant amount of time to be spent on groundwork even before getting early tangible results, then we can call that KR a Groundwork Key Results. These tasks involve actions to marginally increase a number sharply in a period of time.
 
 **Thumb Rule to qualify**: N to 10N (Where N > 1 and N < 100).
 
-**Examples of Pulsar Key Results**: By the end of FY22Q1, 10X the number of Red Hatters participating in the Research projects from 5 to 50. 
+**Examples of Groundwork Key Results**: By the end of FY22Q1, 10X the number of Red Hatters participating in the Research projects from 5 to 50.
 
-**Quantify and Grade Incremental Key Results**: Identify the steps that need to be made to increase the number. Spend 2/3rd of the time working on these steps. In the last part of the trimester, work on increasing the number. 
+**Quantify and Grade Incremental Key Results**: Identify the steps that need to be made to increase the number. Spend 2/3rd of the time working on these steps. In the last part of the trimester, work on increasing the number.
 
 +------------------+---------------------------------------------+-----------+
 |  Check Point     |                       Target                |  Grading  |
@@ -55,12 +54,11 @@ If a Key Result is a task to marginally increase a number sharply in a period of
 | FY22 Mar(end)    | 50 Engaged; Onboarding complete             |    100%   |
 +------------------+---------------------------------------------+-----------+
 
+Binary Key Results
+------------------
+If the completion status of a Key Results can only be quantified as a yes or a no, then we can call that a Binary Key Result. These Key Results are tasks to initiate a project or an initiative that didn't exist before.
 
-Judgemental Key Results
------------------------     
-If a Key Results is a task to initiate a project or an initiative that didn't exist before, then we can call that a Judgemental key result. These key results will have the completion status as Yes or No.
-
-**Thumb Rule to qualify**: 0 to 1 
+**Thumb Rule to qualify**: 0 or 1
 
 **Examples of Judgemental Key Results**: By the end of FY22Q1, a production environment of ESI should be running in the Mass Open Cloud.
 
@@ -77,4 +75,5 @@ If a Key Results is a task to initiate a project or an initiative that didn't ex
 +------------------+---------------------------------------------+-----------+
 | FY22 Mar(end)    | The system sustained 50 operations          |    100%   |
 +------------------+---------------------------------------------+-----------+
+
 
