@@ -21,5 +21,7 @@ Contents
    grading
    tracking
    schedule
+   resources
+   faq
 
 
